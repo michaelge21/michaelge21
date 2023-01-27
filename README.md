@@ -1,6 +1,6 @@
 # hello! my name is michael ge (he/him); nice to meet you.
 
-I'm an aspiring, self-taught front-end developer. I'm reskilling after lots of time spent in psychology, education, and organizational development. I like to set goals, proven to be a powerful motivational factor in educational psych literature, and here are some of those goals:
+I'm an aspiring, self-taught front-end developer. I'm reskilling after lots of time spent in psychology, education, and organizational development. I like to set goals, proven to be a powerful motivational factor in educational psych literature, and here are some loose goals:
 
 ## In fourty years, 
 I want to look back on my work and tell myself, genuinely, that I did the best I could for those around me.
