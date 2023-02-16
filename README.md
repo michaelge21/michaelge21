@@ -20,4 +20,4 @@ I need to figure out what's for lunch. Ideally, something that involves pork bel
 <hr>
 
 You can find out more about me via my 
-[portfolio](https://michaelge21.github.io/v2Portfolio/about/about.html) and my [LinkedIn](https://www.linkedin.com/in/michaelge317/).
+[portfolio](https://michaelge21.github.io/portfolio-v1/) and my [LinkedIn](https://www.linkedin.com/in/michaelge317/).
