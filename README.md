@@ -14,7 +14,7 @@ I want to be working at a company that creates positive social impact. Ideally, 
 I want to have a solid understanding of the past, present, and future of web development. Ideally, I'll always be learning beyond the "right now".
 
 ## In one year, 
-I want to work at a company or studio that invests into the inexperienced. Ideally, they implement consistent feedback cycles, effective mentorship, and adequate time to absorb concepts.
+I want to work at a company or studio that invests into the inexperienced. Ideally, I build durable skills through iterative, formative feedback.
 
 ## In one day,
 I need to figure out what's for lunch. Ideally, something that involves pork belly and rice.
