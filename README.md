@@ -2,7 +2,7 @@
 
 ## Looking for my work/resume? Check out my **[portfolio](https://michaelge21.github.io/portfolio-v1/) and [LinkedIn](https://www.linkedin.com/in/michaelge317/)**.
 
-I'm an aspiring, self-taught front-end developer. I'm reskilling after lots of time spent in psychology, education, and organizational development. I like to set goals, a powerful motivational construct in ed psych literature, so here are some loose goals:
+I'm a self-taught front-end developer who stumbled into software dev right as the AI overlords formed sparks of AGI. I'm reskilling from backgrounds in psychology, education, and organizational development. I like to set goals, a powerful motivational construct in ed psych literature, and here are some of them loose goals:
 
 ## In fourty years, 
 I want to look back on my work and tell myself, genuinely, that I did the best I could for those around me. Ideally, the world will not be on fire.
